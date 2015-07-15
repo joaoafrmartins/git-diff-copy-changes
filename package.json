@@ -1,0 +1,15 @@
+{
+  "name": "git-diff-copy-changes",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./bin/git-diff-copy-changes",
+  "bin": {
+    "git-diff-copy-changes": "./bin/git-diff-copy-changes.coffee"
+  },
+  "dependencies": {
+    "shelljs": "",
+    "minimist": ""
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
+}
